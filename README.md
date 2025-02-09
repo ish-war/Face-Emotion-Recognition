@@ -4,8 +4,8 @@
 This project is a deep learning-based **Face Emotion Recognition** system that classifies facial expressions into seven categories: **angry, disgust, fear, happy, neutral, sad, and surprise**. The model is trained using **CNN and Transfer Learning (MobileNetV2)** to compare their performance. The best-performing model is then used in a **Streamlit web application** for real-time predictions.
 
 ## Web Interface 
-![Screenshot 2025-02-09 141921](https://github.com/user-attachments/assets/6ca5f266-26b7-4cd5-b60f-a84fa7c4386e)
-![Screenshot 2025-02-09 141949](https://github.com/user-attachments/assets/9f278d84-19f5-4131-8d87-1b99d32c7f0d)
+![Screenshot 2025-02-09 142143](https://github.com/user-attachments/assets/b1284725-82d8-484b-8f65-028b7ef7b321)
+
 
 ## Features
 - **Deep Learning Model**: Built using **CNN and MobileNetV2** for emotion recognition.
