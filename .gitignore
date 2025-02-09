@@ -1,0 +1,5 @@
+.vscode
+data
+env
+emotion_recognition_model.keras
+
