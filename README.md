@@ -4,7 +4,8 @@
 This project is a deep learning-based **Face Emotion Recognition** system that classifies facial expressions into seven categories: **angry, disgust, fear, happy, neutral, sad, and surprise**. The model is trained using **CNN and Transfer Learning (MobileNetV2)** to compare their performance. The best-performing model is then used in a **Streamlit web application** for real-time predictions.
 
 ## Web Interface 
-![Screenshot 2025-02-09 142143](https://github.com/user-attachments/assets/b1284725-82d8-484b-8f65-028b7ef7b321)
+![Screenshot 2025-02-09 141921](https://github.com/user-attachments/assets/593c044e-f043-4a6e-9a52-c98d002b1724)
+![Screenshot 2025-02-09 141949](https://github.com/user-attachments/assets/4e7e5807-8bcd-4dfc-a25c-a9ea66a25d69)
 
 
 ## Features
@@ -94,7 +95,7 @@ streamlit run app.py
 - ✅ Improve accuracy with **larger datasets** and more augmentation.
   
 ## Contributors
-- **Ishwar Ambad** - https://github.com/ish-war/Face-Emotion-Recognition
+- **Ishwar Ambad** - https://github.com/ish-war
 
 ## License
 This project is licensed under the **MIT License**.
